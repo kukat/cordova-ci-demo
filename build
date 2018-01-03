@@ -5,4 +5,4 @@ export PATH=/usr/local/bin:$PATH
 git clean -dxf
 yarn global add cordova@8.0.0
 cordova prepare
-cordova build ios
+cordova build android
