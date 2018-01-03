@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git clean -dxf
+yarn global add cordova@8.0.0
+cordova prepare
+cordova build ios
