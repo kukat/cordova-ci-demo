@@ -6,4 +6,3 @@ export ANDROID_HOME=/Users/thtwmac02/Library/Android/sdk
 git clean -dxf
 yarn global add cordova@8.0.0
 cordova prepare
-cordova build android
